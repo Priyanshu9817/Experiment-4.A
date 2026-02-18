@@ -24,9 +24,10 @@ git clone https://github.com/Priyanshu9817/Experiment-4.A.git
 
 2. Navigate into folder:
 
-cd Experiment-4.A
+cd app.js
 
 3. Run the program:
 
 node app.js
+
 
