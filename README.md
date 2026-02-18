@@ -1,6 +1,4 @@
-Run using:
 
-node app.js
 # Employee Management System (CLI)
 
 A command-line employee management system built using Node.js.
@@ -26,8 +24,9 @@ git clone https://github.com/Priyanshu9817/Experiment-4.A.git
 
 2. Navigate into folder:
 
-cd your-repo-name
+cd Experiment-4.A
 
 3. Run the program:
 
 node app.js
+
